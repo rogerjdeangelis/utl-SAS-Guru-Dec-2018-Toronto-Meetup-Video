@@ -9,6 +9,9 @@ SAS Guru Dec 2018 Toronto Meetup Video
     Part2
     https://www.dropbox.com/s/nr7v7hwrakh7f66/camtst2.zip?dl=0
 
+    https://tinyurl.com/ycap9jzu
+    https://github.com/rogerjdeangelis/utl-SAS-Guru-Dec-2018-Toronto-Meetup-Video
+
 
                       Server and Workstation.
                    The SAS best of both worlds.
